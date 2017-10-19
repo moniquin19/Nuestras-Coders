@@ -1,0 +1,22 @@
+
+h1{
+	font-family: courier new;
+	font-size: 30px;
+}	
+
+span{
+	border: 2px solid #000;
+	height: : 30px;
+
+}
+
+.coders{
+	display: inline;
+	width: 700px;
+	height: 700px;
+	margin: 90px;
+}
+
+.container{
+	margin-top: 35px;
+}
